@@ -1,4 +1,4 @@
-# Tensor-Network-Toolbox (Matlab)
+# Tensor Network Toolbox (Matlab)
 
 Yu-Bang Zheng, Wen-Jie Zheng, Sheng Liu, and Xi-Le Zhao
 
