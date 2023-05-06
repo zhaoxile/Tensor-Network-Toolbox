@@ -2,15 +2,15 @@
 
 Yu-Bang Zheng, Wen-Jie Zheng, Sheng Liu, and Xi-Le Zhao
 
-## 1 Introduction
+## 1. Introduction
 
 Tensor network decomposition decomposes an Nth-order tensor into a series of factor tensors, or matrices, and establishes an interactive tensor contraction between these factors, providing the compact representation of high-dimensional data. We develop a tensor network decomposition (termed as TenNet) toolbox in Matlab. The TenNet toolbox can implement tensor operations and tensor network decompositions, including tensor train (TT) [1], tensor ring (TR) [2], and fully-connected tensor network (FCTN) [3] decompositions, which are demonstrated in the task of tensor completion (TC).
 
-## 2 Example
+## 2. Example
 
 Simply run the “Demo_TN_TC.m” to test all the above functions. The test data is available at http://trace.eas.asu.edu/yuv/.
 
-## 3 Citation
+## 3. Citation
 
 Please cite the corresponding references when using the TenNet toolbox in your papers.
 
